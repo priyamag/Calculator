@@ -1,0 +1,22 @@
+.container{
+    background-color: salmon;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+
+
+}
+h1{ 
+    font-size: 40px;
+    color:black ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    display: block;
+    margin: auto;
+    
+}
+body{
+    background-color: black;
+    }
